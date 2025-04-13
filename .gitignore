@@ -1,1 +1,6 @@
 **/*.code-workspace
+**/xsim.dir/
+**/vivado.jou
+**/vivado.log
+**/xvlog.log
+**/xvlog.pb
