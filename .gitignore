@@ -2,5 +2,5 @@
 **/xsim.dir/
 **/vivado.jou
 **/vivado.log
-**/xvlog.log
-**/xvlog.pb
+**/x*.log
+**/x*.pb
